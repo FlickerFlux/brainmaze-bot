@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Online Tutoring Service",
+    "description": "Start an online tutoring platform for students in subjects like Math, Science, or Languages.",
+    "category": "Online"
+  },
+  {
+    "title": "Freelance Graphic Design",
+    "description": "Offer graphic design services for businesses needing logos, banners, or social media graphics.",
+    "category": "Freelance"
+  },
+  {
+    "title": "Eco-Friendly Products Store",
+    "description": "Sell sustainable products like reusable straws, bags, and bamboo utensils.",
+    "category": "Low Budget"
+  }
+]
